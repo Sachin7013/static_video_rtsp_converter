@@ -2,3 +2,10 @@ sample_video
 venv
 .venv
 __pycache__
+*.pt
+test_videos
+GunDetected
+output_frames
+sample_video
+.rtsp_streamer
+gun_model
