@@ -9,3 +9,5 @@ output_frames
 sample_video
 .rtsp_streamer
 gun_model
+test_frame
+.env

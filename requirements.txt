@@ -1,3 +1,8 @@
 imageio-ffmpeg==0.4.9
 opencv-python==4.12.0.88
 ultralytics>=8.0.0
+# VLM dependencies (optional - install as needed)
+# For OpenAI GPT-4 Vision: pip install openai
+# For local VLM models: pip install transformers torch pillow
+# For Groq API (llama-4-scout-17b-16e-instruct): pip install groq
+groq>=0.4.0
