@@ -11,3 +11,12 @@ sample_video
 gun_model
 test_frame
 .env
+cementBag
+*.mp4
+*.json
+*.avi
+*.jpg
+*.png
+*.md
+__init__.py
+*.pyc

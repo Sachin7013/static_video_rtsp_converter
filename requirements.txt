@@ -6,3 +6,6 @@ ultralytics>=8.0.0
 # For local VLM models: pip install transformers torch pillow
 # For Groq API (llama-4-scout-17b-16e-instruct): pip install groq
 groq>=0.4.0
+# Person counting dependencies
+numpy>=1.24.0
+filterpy>=1.4.5
