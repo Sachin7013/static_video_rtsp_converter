@@ -39,7 +39,7 @@ except:
     pass
 
 # Default model path - change this to use a different model
-DEFAULT_MODEL_PATH = r'C:\AlgoOrange Task\RTSP_reader\box_detection_model\best.pt'
+DEFAULT_MODEL_PATH = r'C:\AlgoOrange Task\RTSP_reader\box_detection_model\box_detection.pt'
 
 # Global variables for interactive line setup
 _line_points = []

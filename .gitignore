@@ -3,16 +3,16 @@ venv
 .venv
 __pycache__
 *.pt
-test_videos
+
 GunDetected
 output_frames
-sample_video
+
 .rtsp_streamer
 gun_model
 test_frame
 .env
 cementBag
-*.mp4
+
 *.json
 *.avi
 *.jpg
@@ -20,3 +20,6 @@ cementBag
 *.md
 __init__.py
 *.pyc
+person_count
+box_loading_detection
+test_fire_detection.py
